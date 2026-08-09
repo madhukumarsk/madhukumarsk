@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+# 👋 Hi, I'm Madhukumar<br><br>## 🚀 DevOps Engineer | Cloud & Automation Enthusiast<br><br>I am a DevOps professional passionate about building scalable, automated, and reliable software delivery pipelines. <br>I work on CI/CD automation, cloud infrastructure, containerization, and modern deployment practices.<br><br>---<br><br>## 🔭 I'm currently working on<br>- 🚀 Building CI/CD pipelines using Jenkins and GitHub Actions<br>- 🐳 Containerizing applications using Docker<br>- ☸️ Learning Kubernetes orchestration<br>- ☁️ Exploring AWS Cloud services<br>- 🔧 Automating infrastructure and deployment workflows<br><br>---<br><br>## 🤝 I'm looking to collaborate on<br>- DevOps automation projects<br>- Cloud infrastructure projects<br>- Open-source DevOps tools<br>- CI/CD pipeline implementations<br>- Docker & Kubernetes based deployments<br><br>---<br><br>## 🆘 I'm looking for help with<br>- Advanced Kubernetes concepts<br>- Cloud architecture best practices<br>- Infrastructure as Code (Terraform)<br>- DevSecOps implementation<br><br>---<br><br>## 🌱 I'm currently learning<br>- AWS Cloud Services<br>- Kubernetes Administration<br>- Terraform<br>- Ansible Automation<br>- Monitoring tools (Prometheus & Grafana)<br>- Linux System Administration<br><br>---<br><br>## 💬 Ask me about<br>- Git & GitHub<br>- Docker<br>- Jenkins CI/CD<br>- Maven Build Automation<br>- Linux Commands<br>- DevOps Practices<br>- Cloud Deployment<br><br>---<br><br>## ⚡ Fun fact<br>I enjoy transforming manual processes into automated solutions 🚀<br><br>---<br><br># 🛠️ Technical Skills<br><br>### Version Control<br>- Git<br>- GitHub<br><br>### CI/CD Tools<br>- Jenkins<br>- GitHub Actions<br><br>### Containerization<br>- Docker<br>- Docker Hub<br><br>### Cloud Platforms<br>- AWS<br>  - EC2<br>  - S3<br>  - IAM<br>  - VPC<br><br>### Infrastructure Automation<br>- Terraform<br>- Ansible<br><br>### Operating Systems<br>- Linux<br>- Windows<br><br>### Build Tools<br>- Maven<br>- Gradle<br><br>### Monitoring<br>- Prometheus<br>- Grafana<br><br>---<br><br># 🚀 DevOps Projects<br><br>## 1. Spring Boot Application CI/CD Pipeline<br><br>Technology:
 
-<!--
-**madhukumarsk/madhukumarsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat-square&logo=ansible&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=madhukumarsk&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=madhukumarsk&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=madhukumarsk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://komarev.com/ghpvc/?username=madhukumarsk&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
